@@ -1,0 +1,79 @@
+﻿[[prompts]]
+prompt = "Generate a Gherkin feature file for testing a 'GET /api/users' endpoint, verifying that it returns a list of users."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file to test a 'POST /api/users' endpoint, ensuring a new user can be created with valid data."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test 'PUT /api/users/{id}' endpoint, validating that updating a user's details works correctly."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file to test a 'DELETE /api/users/{id}' endpoint, verifying that the user is successfully deleted."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file for testing 'GET /api/orders' endpoint, ensuring it returns a list of orders."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test a 'POST /api/orders' endpoint, verifying the creation of a new order."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file for testing 'GET /api/orders/{id}' endpoint, ensuring it returns the correct order details."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test 'PUT /api/orders/{id}' endpoint, ensuring an order can be updated with new data."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file to test 'DELETE /api/orders/{id}' endpoint, verifying that the order is removed."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file to test error handling when the 'GET /api/users/{id}' endpoint is called with a non-existing user."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file to test the response when 'POST /api/users' is called with invalid data, ensuring validation errors are returned."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test authentication for 'GET /api/orders', ensuring it returns unauthorized for non-authenticated users."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file for testing pagination in 'GET /api/users', ensuring it handles page and limit parameters correctly."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file to test filtering and sorting in 'GET /api/orders', verifying the correct results are returned based on query parameters."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test rate-limiting for the 'POST /api/users' endpoint, ensuring that exceeding rate limits returns the correct error."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file for testing 'PATCH /api/users/{id}', ensuring partial updates to user data are handled correctly."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file for testing 'HEAD /api/users', ensuring that the response contains the correct headers without a response body."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Write a Gherkin feature file to test the 'OPTIONS /api/orders' endpoint, verifying it returns the allowed methods for the orders resource."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Generate a Gherkin feature file for testing 'GET /api/orders/{id}/status', ensuring it returns the correct status of the specified order."
+file_extension = "feature"
+
+[[prompts]]
+prompt = "Create a Gherkin feature file for testing the 'PUT /api/users/{id}/password' endpoint, ensuring a user can change their password successfully."
+file_extension = "feature"

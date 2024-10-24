@@ -1,4 +1,9 @@
-﻿[[prompts]]
+﻿[[config]]
+model = "phi3.5"
+host = "http://localhost:11434"
+url = "/api/generate"
+
+[[prompts]]
 prompt = "Generate a complete code snippet in Ruby that defines a method to return 'Hello, World!'."
 file_extension = "rb"
 

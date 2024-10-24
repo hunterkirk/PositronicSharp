@@ -15,7 +15,14 @@ class Program
     static async Task Main(string[] args)
     {
 
-        using (StreamReader reader = File.OpenText("../../../prompts.toml"))
+
+        string tomlFilePath = args[0];
+
+        if (tomlFilePath == ""){
+            tomlFilePath = "features.toml";
+        }
+
+        using (StreamReader reader = File.OpenText("../../../" + tomlFilePath))
         {
             TomlTable table = TOML.Parse(reader);
 

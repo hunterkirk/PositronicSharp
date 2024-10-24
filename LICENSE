@@ -1,0 +1,29 @@
+Limited Use License (LUL) v1.1
+
+1. Grant of License
+
+The software provided under this license (the "Software") may be used, modified, and distributed freely by individuals or organizations whose gross annual revenue does not exceed $250,000 USD. This grant is intended for hobbyist, personal, and educational use.
+
+2. Commercial Use
+
+Organizations with gross annual revenue exceeding $250,000 USD may not use the Software without purchasing a separate commercial license. Contact the repository owner for commercial licensing terms.
+
+3. Prohibited Uses
+
+The Software may not be:
+
+    Used for training large language models (LLMs) or any artificial intelligence systems.
+    Stored, indexed, or vectorized as retrievable data for AI-assisted tasks, machine learning, or any similar data-processing systems without the explicit permission of the author or authors.
+
+4. Restrictions
+
+    The Software may not be sublicensed, sold, or offered as a service by any entity without explicit permission from the original author.
+    Redistributions of the Software must retain this license in full, including all restrictions.
+
+5. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+FP: RAATHAIH4PHAEP6THIAW0AHT
+
+Removal of the Fingerprint (FP) invalidates this software license and revokes any previously granted permissions.

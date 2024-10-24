@@ -11,5 +11,5 @@ https://ollama.com/
 https://ollama.com/library/phi3.5
 
 ```batch
-positron features.toml
+positronic features.toml
 ```
